@@ -1,0 +1,67 @@
+html {
+	font-size: 48px;
+  background: black;
+  color: white;
+}
+
+body {
+	box-sizing: border-box;
+	margin: 0;
+	border: 8px solid white;
+	padding: 0;
+	background: repeating-linear-gradient(
+    0deg,
+    #2b2be4ea, #2b2be4ea 8px,
+    #1010c7 8px, #1010c7 16px
+  );
+	width: 1024px;
+	height: 256px;
+}
+
+deco {
+  display: block;
+  position: absolute;
+  background-color: white;
+  width: 32px;
+  height: 32px;
+}
+
+deco:nth-of-type(1) {
+  top: 0;
+  left: 0;
+  clip-path: polygon(0px 0px, 32px 0px, 0px 32px);
+}
+
+deco:nth-of-type(2) {
+  top: 224px;
+  left: 992px;
+  clip-path: polygon(32px 32px, 0px 32px, 32px 0px);
+}
+
+deco:nth-of-type(3) {
+  top: 224px;
+  left: 0;
+  clip-path: polygon(0px 0px, 32px 32px, 0px 32px);
+}
+
+deco:nth-of-type(4) {
+  top: 16px;
+  left: 992px;
+  clip-path: polygon(0px 0px, 32px 0px, 32px 32px);
+}
+
+deco:nth-of-type(5) {
+  top: 0;
+  left: 512px;
+  width: 512px;
+  height: 24px;
+  clip-path: polygon(0px 0px, 48px 24px, 512px 24px, 512px 0px);
+}
+
+meter {
+  position: absolute;
+  top: 16px;
+  left: 28px;
+  width: 496px;
+  height: 16px;
+}

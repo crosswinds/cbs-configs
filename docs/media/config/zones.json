@@ -1,0 +1,14 @@
+{
+  "default": {
+    "default": {
+      "name": "World",
+      "priority": 0,
+      "peace": "beata",
+      "fight": "the-gift",
+      "death": "a-desert-tale"
+    }
+  },
+  "Land of Glamour": {
+    
+  }
+}

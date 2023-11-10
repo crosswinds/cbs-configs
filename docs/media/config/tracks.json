@@ -1,0 +1,58 @@
+{
+  "a-desert-tale": {
+    "name": "A Desert Tale",
+    "license": "Pixabay Content License",
+    "licenseUrl": "https://pixabay.com/service/license-summary/",
+    "credits": "OB-LIX",
+    "creditsUrl": "https://pixabay.com/users/ob-lix-17147719/",
+    "src": "a-desert-tale.mp3"
+  },
+  "beata": {
+    "name": "Beata",
+    "license": "Pixabay Content License",
+    "licenseUrl": "https://pixabay.com/service/license-summary/",
+    "credits": "OB-LIX",
+    "creditsUrl": "https://pixabay.com/users/ob-lix-17147719/",
+    "src": "beata.mp3"
+  },
+  "the-gift": {
+    "name": "The Gift",
+    "license": "Pixabay Content License",
+    "licenseUrl": "https://pixabay.com/service/license-summary/",
+    "credits": "OB-LIX",
+    "creditsUrl": "https://pixabay.com/users/ob-lix-17147719/",
+    "src": "the-gift.mp3"
+  },
+  "the-britons": {
+    "name": "A Desert Tale",
+    "license": "Pixabay Content License",
+    "licenseUrl": "https://pixabay.com/service/license-summary/",
+    "credits": "kmacleod",
+    "creditsUrl": "https://pixabay.com/users/kmacleod-3979860/",
+    "src": "the-britons.mp3"
+  },
+  "acecho": {
+    "name": "Acecho",
+    "license": "Pixabay Content License",
+    "licenseUrl": "https://pixabay.com/service/license-summary/",
+    "credits": "anrocomposer",
+    "creditsUrl": "https://pixabay.com/users/anrocomposer-26029862/",
+    "src": "acecho.mp3"
+  },
+  "time-of-angels": {
+    "name": "Time of Angels",
+    "license": "Pixabay Content License",
+    "licenseUrl": "https://pixabay.com/service/license-summary/",
+    "credits": "Daddy_s_Music",
+    "creditsUrl": "https://pixabay.com/users/daddy_s_music-22836301/",
+    "src": "time-of-angels.mp3"
+  },
+  "smell-of-travel": {
+    "name": "Smell of Travel",
+    "license": "Pixabay Content License",
+    "licenseUrl": "https://pixabay.com/service/license-summary/",
+    "credits": "SergePavkinMusic",
+    "creditsUrl": "https://pixabay.com/users/sergepavkinmusic-6130722/",
+    "src": "smell-of-travel.mp3"
+  }
+}
